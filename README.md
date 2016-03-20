@@ -47,18 +47,14 @@ Derivatives of these distributions should work, as well.
 
 If your distribution isn't listed, please check the requirements yourself.
 
-### Installation
+
+#### Manual Installation
 
 **Important:** Remove all older versions of the theme from your system before you proceed any further.
 
     sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
     rm -rf ~/.local/share/themes/{Arc,Arc-Darker,Arc-Dark}
     rm -rf ~/.themes/{Arc,Arc-Darker,Arc-Dark}
-
-
---
-
-#### Manual Installation
 
 To build the theme you'll need 
 * `autoconf`
