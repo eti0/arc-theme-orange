@@ -138,7 +138,7 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
 
 
 ### Bug reporting
-If you find a bug, please report it at https://github.com/horst3180/arc-theme/issues
+If you find a bug, please report it at https://github.com/eti1337/arc-theme-orange/issues
 
 ### Full Preview
 ![A full screenshot of the Arc Orange theme](http://i.imgur.com/8XhffWN.png)
