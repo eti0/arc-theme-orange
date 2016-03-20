@@ -142,4 +142,4 @@ If you find a bug, please report it at https://github.com/horst3180/arc-theme/is
 
 ### Full Preview
 ![A full screenshot of the Arc Orange theme](http://i.imgur.com/8XhffWN.png)
-<sub>Screenshot Details: Icons [Antü](https://github.com/fabianalexisinostroza/Antu) | [Wallpaper](https://pixabay.com/en/snowy-mountain-rocky-mountain-1149920/) | Font: Overpass Regular</sub>
+<sub>Screenshot Details: Icons [Antü](https://github.com/fabianalexisinostroza/Antu) | [Wallpaper](https://pixabay.com/en/snowy-mountain-rocky-mountain-1149920/) | Font: [Overpass Regular](https://github.com/RedHatBrand/overpass)</sub>
