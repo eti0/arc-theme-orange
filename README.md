@@ -1,7 +1,7 @@
 # Arc Theme Orange
 An Orange-themed derivation of https://github.com/horst3180/arc-theme
 
-This version is still in development in my free time so if you want to help don't hesitate and commit your modifications to the theme.
+This version is developed in my free time so if you want to help don't hesitate and commit your modifications to the theme.
 
 # Arc Theme
 
