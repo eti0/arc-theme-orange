@@ -10,6 +10,7 @@ To install you'll need:
 Run:
 
 `./autogen.sh --prefix=/usr`
+
 `sudo make install`
 
 For troubleshooting please refer to "README.md".
