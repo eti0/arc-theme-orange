@@ -52,9 +52,9 @@ If your distribution isn't listed, please check the requirements yourself.
 
 **Important:** Remove all older versions of the theme from your system before you proceed any further.
 
-    sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
-    rm -rf ~/.local/share/themes/{Arc,Arc-Darker,Arc-Dark}
-    rm -rf ~/.themes/{Arc,Arc-Darker,Arc-Dark}
+    sudo rm -rf /usr/share/themes/{Arc-Orange,Arc-Orange-Darker,Arc-Orange-Dark}
+    rm -rf ~/.local/share/themes/{Arc-Orange,Arc-Orange-Darker,Arc-Orange-Dark}
+    rm -rf ~/.themes/{Arc-Orange,Arc-Orange-Darker,Arc-Orange-Dark}
 
 To build the theme you'll need 
 * `autoconf`
