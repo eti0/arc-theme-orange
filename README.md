@@ -3,7 +3,7 @@ An Orange-themed derivation of https://github.com/horst3180/arc-theme
 
 This version is developed in my free time so if you want to help don't hesitate and commit your modifications to the theme.
 
-# Arc Theme
+You can download the theme [here](https://raw.githubusercontent.com/eti1337/arc-theme-orange/master/built/arc-orange-theme.zip)
 
 Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
