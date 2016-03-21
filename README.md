@@ -136,6 +136,9 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
 ### Bug reporting
 If you find a bug, please report it at https://github.com/eti1337/arc-theme-orange/issues
 
+### Discussion
+You can talk about this theme at [gnome-look.org](http://gnome-look.org/content/show.php/Arc+Orange?content=175567)
+
 ### Full Preview
 ![A full screenshot of the Arc Orange theme](http://i.imgur.com/8XhffWN.png)
 <sub>Screenshot Details: Icons [Antü](https://github.com/fabianalexisinostroza/Antu) | [Wallpaper](https://pixabay.com/en/snowy-mountain-rocky-mountain-1149920/) | Font: [Overpass Regular](https://github.com/RedHatBrand/overpass)</sub>
