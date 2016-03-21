@@ -141,4 +141,4 @@ You can talk about this theme at [gnome-look.org](http://gnome-look.org/content/
 
 ### Full Preview
 ![A full screenshot of the Arc Orange theme](http://i.imgur.com/8XhffWN.png)
-<sub>Screenshot Details: Icons [Antü](https://github.com/fabianalexisinostroza/Antu) | [Wallpaper](https://pixabay.com/en/snowy-mountain-rocky-mountain-1149920/) | Font: [Overpass Regular](https://github.com/RedHatBrand/overpass)</sub>
+<sub>Screenshot Details: [Antü Icon Theme](https://github.com/fabianalexisinostroza/Antu) | [Wallpaper](https://pixabay.com/en/snowy-mountain-rocky-mountain-1149920/) | Font: [Overpass Regular](https://github.com/RedHatBrand/overpass)</sub>
