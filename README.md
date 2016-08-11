@@ -1,7 +1,7 @@
 # Arc Theme Orange
 An Orange-themed derivation of [Horst3180's Arc Theme](https://github.com/horst3180/arc-theme).
 
-This version is developed in my free time so if you want to help don't hesitate and commit your modifications to the theme.
+This version is developed in my free time so if you want to help don't hesitate and commit your modifications to the repository.
 
 You can download the theme built [here](https://github.com/eti1337/arc-theme-orange/releases/download/1.2/arc-orange-theme.zip).
 
@@ -9,17 +9,17 @@ Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell w
 
 ###Arc is available in three variants 
 
-#####Arc
+#####Arc-Orange
 
-![A screenshot of the Arc theme](http://i.imgur.com/Pe0RImF.png)
+![A screenshot of the Arc-Orange theme](http://i.imgur.com/Pe0RImF.png)
 
-#####Arc-Darker
+#####Arc-Orange-Darker
 
-![A screenshot of the Arc-Darker theme](http://i.imgur.com/rE2sFKC.png)
+![A screenshot of the Arc-Orange-Darker theme](http://i.imgur.com/rE2sFKC.png)
 
-#####Arc-Dark
+#####Arc-Orange-Dark
 
-![A screenshot of the Arc-Dark theme](http://i.imgur.com/XVIylKt.png)
+![A screenshot of the Arc-Orange-Dark theme](http://i.imgur.com/XVIylKt.png)
 
 
 ### Requirements
@@ -120,6 +120,9 @@ To install the Chrome/Chromium theme go to the `extra/Chrome` folder and drag an
 #### Plank theme
 To install the Plank theme, copy the `extra/Arc-Plank` folder to `~/.local/share/plank/themes` or to `/usr/share/plank/themes` for system-wide use.
 Now open the Plank preferences window by executing `plank --preferences` from a terminal and select `Arc-Plank` as the theme.
+
+#### Docky themes
+[Alireza-amirsamimi](https://github.com/alireza-amirsamimi) made some Docky ports of Arc theme, check them out [here](https://github.com/alireza-amirsamimi/Arc-Dark-Docky-themes).
 
 ### Troubleshooting
 
