@@ -1,7 +1,7 @@
 AC_INIT(
     [arc-theme-orange],
     [20151214],
-    [https://github.com/eti1337/arc-theme-orange/issues],
+    [https://github.com/eti0/arc-theme-orange/issues],
     [arc-theme-orange],
     [https://github.com/horst3180/arc-theme-orange],
     []

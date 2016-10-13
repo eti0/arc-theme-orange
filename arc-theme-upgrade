@@ -6,7 +6,7 @@
 theme_name=arc-theme-orange
 
 # Theme name
-download_url=https://github.com/eti1337/$theme_name/archive/master.tar.gz
+download_url=https://github.com/eti0/$theme_name/archive/master.tar.gz
 
 # for test purporses only (the repo needs to have this script)
 # download_url=https://github.com/leoheck/$theme_name/archive/master.tar.gz
@@ -85,7 +85,7 @@ install_theme() {
   rm -rf $tempdir && mkdir $tempdir && cd $tempdir
 
   # Get the sources && Remove current installation only if download and unpack are successful
-  wget $download_url && tar xf master.tar.gz && rm -rf $lightdir $darkerdir $darkdir && cd "$theme_name"-master 
+  wget $download_url && tar xf master.tar.gz && rm -rf $lightdir $darkerdir $darkdir && cd "$theme_name"-master
 
   # Build and install
   ./autogen.sh --prefix=/usr
@@ -138,7 +138,7 @@ check_directories $lightdir $darkerdir $darkdir
 echo
 read -r -p "Do you want to continue installation? [y/N] " response
 case $response in
-  [yY][eE][sS]|[yY]) 
+  [yY][eE][sS]|[yY])
     install_theme
     ;;
   *)

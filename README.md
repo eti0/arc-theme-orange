@@ -3,11 +3,11 @@ An Orange-themed derivation of [Horst3180's Arc Theme](https://github.com/horst3
 
 This version is developed in my free time so if you want to help don't hesitate and commit your modifications to the repository.
 
-You can download the theme built [here](https://github.com/eti1337/arc-theme-orange/releases/download/1.2/arc-orange-theme.zip).
+You can download the theme built [here](https://github.com/eti0/arc-theme-orange/releases/download/1.2/arc-orange-theme.zip).
 
 Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
-###Arc is available in three variants 
+###Arc is available in three variants
 
 #####Arc-Orange
 
@@ -56,7 +56,7 @@ If your distribution isn't listed, please check the requirements yourself.
     rm -rf ~/.local/share/themes/{Arc-Orange,Arc-Orange-Darker,Arc-Orange-Dark}
     rm -rf ~/.themes/{Arc-Orange,Arc-Orange-Darker,Arc-Orange-Dark}
 
-To build the theme you'll need 
+To build the theme you'll need
 * `autoconf`
 * `automake`
 * `pkg-config` or `pkgconfig` if you use Fedora
@@ -71,7 +71,7 @@ Install the theme with the following commands
 
 If you want to install the latest version from git, clone the repository with
 
-    git clone https://github.com/eti1337/arc-theme-orange.git --depth 1 && cd arc-theme-orange
+    git clone https://github.com/eti0/arc-theme-orange.git --depth 1 && cd arc-theme-orange
 
 **2. Build and install the theme**
 
@@ -137,7 +137,7 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
 
 
 ### Bug reporting
-If you find a bug, please report it at https://github.com/eti1337/arc-theme-orange/issues
+If you find a bug, please report it at https://github.com/eti0/arc-theme-orange/issues
 
 ### Discussion
 You can talk about this theme at [gnome-look.org](http://gnome-look.org/content/show.php/Arc+Orange?content=175567)
